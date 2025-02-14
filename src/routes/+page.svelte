@@ -37,7 +37,7 @@
     };
 </script>
 
-<main class="min-h-screen bg-gray-100 flex flex-col items-center">
+<main class="min-h-screen bg-gray-100 flex flex-col items-center justify-center">
     <div class="w-full max-w-md p-4 bg-white rounded-lg shadow-md">
         <h1 class="text-2xl font-bold mb-4 text-center">Task Manager</h1>
 
